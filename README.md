@@ -7,8 +7,8 @@ This is a unity-mod written in C# for the videogame "Lethal Company".
 The gnome will make gnome noises from time to time.
 
 ## Audio used
-- normal "whoo": youtube.com/watch?v=KnHmoA6Op1o
-- reverb "whoo": youtube.com/watch?v=EFALkpovkIE
+- normal ["whoo"](youtube.com/watch?v=KnHmoA6Op1o)
+- reverb ["whoo"](youtube.com/watch?v=EFALkpovkIE)
 
 ## Images
 ![hgnomeIngame](https://i.imgur.com/TngvK5e.png)
